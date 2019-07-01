@@ -1,0 +1,71 @@
+.nav {
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%;
+  background-color: rgb(106, 206, 228);
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  z-index: 1;
+}
+
+
+.bar {
+  list-style-type: none;
+}
+.tab {
+    float: right;
+    color: white;
+  }
+.name{
+  left: 50%;
+  top: 50%;
+    float:left;
+    height:50px;
+    width:50px;
+}
+  
+.container{
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    text-align:center; 
+}
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    color: #111;
+  }
+
+  .image-txt-container {
+    display:flex;
+    align-items:center;
+    text-align:center; 
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .text{
+    display: flex;
+    flex-wrap: wrap;
+    align-self: flex-start;
+    line-height: 200%;
+    flex-direction: column;
+    align-items: flex-start;
+    /* margin-left: 2%; */
+    /* margin-right: 2%; */
+    padding: 110px 100px;
+  }
+  .header{
+    position: relative;
+    margin-top:70px;
+    line-height: 150%;
+    margin-bottom: 30px;
+  }
