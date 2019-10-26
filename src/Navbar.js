@@ -59,7 +59,7 @@ const Home = () => {
             <div className="text">
             <h1 className="header">Hello, I'm Jennifer Huang, a sophomore at UC Berkeley studying CS, Applied Math, and Music.</h1>
             <p className="description">I'm from Toronto, Canada (Sorry Warriors, but I have to say Go Raptors) and lived with my grandparents in Nanjing, China
-            when I was younger. Right now, my time evolves around <a href="/website/pursuits/"> finding aliens, comparing charter schools and public schools,
+            when I was younger. Right now, my time evolves around <a href="/website/#/pursuits/"> finding aliens, comparing charter schools and public schools,
             and tutoring CS61A</a>, the introductory course to CS at Berkeley. I like writing one lined poems, long articles about
             gemstones, collecting perfumes, playing PUBG, singing, and of course, drawing squirrels.
             </p>
