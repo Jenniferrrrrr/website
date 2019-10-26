@@ -1,12 +1,16 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.ddd6d20d.chunk.css",
+    "main.css": "/repository-name/static/css/main.d8a43b66.chunk.css",
     "main.js": "/repository-name/static/js/main.f4d3a547.chunk.js",
+    "main.js.map": "/repository-name/static/js/main.f4d3a547.chunk.js.map",
     "runtime~main.js": "/repository-name/static/js/runtime~main.f7634681.js",
+    "runtime~main.js.map": "/repository-name/static/js/runtime~main.f7634681.js.map",
     "static/js/2.64c52e0e.chunk.js": "/repository-name/static/js/2.64c52e0e.chunk.js",
+    "static/js/2.64c52e0e.chunk.js.map": "/repository-name/static/js/2.64c52e0e.chunk.js.map",
     "index.html": "/repository-name/index.html",
-    "precache-manifest.27d5adf57edb46b6620c345d55f53044.js": "/repository-name/precache-manifest.27d5adf57edb46b6620c345d55f53044.js",
+    "precache-manifest.9d688c7471cfd9d0a860a425a0d6e154.js": "/repository-name/precache-manifest.9d688c7471cfd9d0a860a425a0d6e154.js",
     "service-worker.js": "/repository-name/service-worker.js",
+    "static/css/main.d8a43b66.chunk.css.map": "/repository-name/static/css/main.d8a43b66.chunk.css.map",
     "static/media/CS61A.png": "/repository-name/static/media/CS61A.a2e673d2.png",
     "static/media/Debugging-squirrel.png": "/repository-name/static/media/Debugging-squirrel.7ba6d10e.png",
     "static/media/MA.png": "/repository-name/static/media/MA.02c69303.png",
