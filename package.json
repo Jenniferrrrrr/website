@@ -6,7 +6,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "express-favicon": "^2.0.1",
-    "gh-pages": "^2.0.1",
     "path": "^0.12.7",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -33,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }
