@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/repository-name/static/css/main.ddd6d20d.chunk.css",
+    "main.js": "/repository-name/static/js/main.f4d3a547.chunk.js",
+    "runtime~main.js": "/repository-name/static/js/runtime~main.f7634681.js",
+    "static/js/2.64c52e0e.chunk.js": "/repository-name/static/js/2.64c52e0e.chunk.js",
+    "index.html": "/repository-name/index.html",
+    "precache-manifest.27d5adf57edb46b6620c345d55f53044.js": "/repository-name/precache-manifest.27d5adf57edb46b6620c345d55f53044.js",
+    "service-worker.js": "/repository-name/service-worker.js",
+    "static/media/CS61A.png": "/repository-name/static/media/CS61A.a2e673d2.png",
+    "static/media/Debugging-squirrel.png": "/repository-name/static/media/Debugging-squirrel.7ba6d10e.png",
+    "static/media/MA.png": "/repository-name/static/media/MA.02c69303.png",
+    "static/media/email.png": "/repository-name/static/media/email.bdf8bb1a.png",
+    "static/media/github-logo.png": "/repository-name/static/media/github-logo.b08b6e52.png",
+    "static/media/input.png": "/repository-name/static/media/input.00d32095.png",
+    "static/media/interface.png": "/repository-name/static/media/interface.4338745d.png",
+    "static/media/linkedin-logo.png": "/repository-name/static/media/linkedin-logo.ad2e08a1.png",
+    "static/media/me.jpg": "/repository-name/static/media/me.e19cbe5c.jpg",
+    "static/media/observation.png": "/repository-name/static/media/observation.a2f9e060.png",
+    "static/media/squirrel_singing.png": "/repository-name/static/media/squirrel_singing.3ef8b446.png"
+  }
+}
