@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
+import { HashRouter, Route, Link } from 'react-router-dom';
 import './Navbar.css';
 import './Drawings.css';
 import Me from './me.jpg';
@@ -15,7 +15,7 @@ import ScrollToTop from './ScrollToTop';
 class Navbar extends React.Component{
     render() {
         return (
-            <Router>
+            <HashRouter basename='/'>
             <ScrollToTop />
             <div className="container">
             <div className="nav">
@@ -33,7 +33,7 @@ class Navbar extends React.Component{
             <Route path="/interests/" component={Interests} />
             </div>
             <Footer/>
-            </Router>
+            </HashRouter>
             
         );
     }
