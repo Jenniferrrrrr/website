@@ -19,7 +19,7 @@ class Navbar extends React.Component{
             <ScrollToTop />
             <div className="container">
             <div className="nav">
-                <a href="/"><img style={{marginLeft: "5px", marginTop:"5px"}}width="75px" height="70px" src={Singing_Squirrel}/></a>  
+                <a href="/website/"><img style={{marginLeft: "5px", marginTop:"5px"}}width="75px" height="70px" src={Singing_Squirrel}/></a>  
                 <div className="item">     
                     <ul className="bar">
                         <li className="tab"><Link to="/">HOME</Link></li>
@@ -47,7 +47,7 @@ const Home = () => {
             <div className="second-container">
             <h1 className="header"> I'm a squirrel in UC Berkeley pursuing a degree in Acorn Finding, Tree Climbing, and Karaoke.</h1>
             <p className="description">Please feel free to browse around to hear my fairly technical thoughts on 
-            <a href="/interests/"> fragrances, lipsticks, and gemstones</a>. 
+            <a href="/website/interests/"> fragrances, lipsticks, and gemstones</a>. 
             Are you here for the human Jennifer? Scroll down!
             </p>
             </div>
@@ -59,7 +59,7 @@ const Home = () => {
             <div className="text">
             <h1 className="header">Hello, I'm Jennifer Huang, a sophomore at UC Berkeley studying CS, Applied Math, and Music.</h1>
             <p className="description">I'm from Toronto, Canada (Sorry Warriors, but I have to say Go Raptors) and lived with my grandparents in Nanjing, China
-            when I was younger. Right now, my time evolves around <a href="/pursuits/"> finding aliens, comparing charter schools and public schools,
+            when I was younger. Right now, my time evolves around <a href="/website/pursuits/"> finding aliens, comparing charter schools and public schools,
             and tutoring CS61A</a>, the introductory course to CS at Berkeley. I like writing one lined poems, long articles about
             gemstones, collecting perfumes, playing PUBG, singing, and of course, drawing squirrels.
             </p>
