@@ -9,6 +9,18 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier",
     monospace;
+}
+
+a {
+  color: #8c2e30;
+  text-decoration: none;
+}
+
+a:hover 
+{
+   color: #f1bb2f;
+   text-decoration:none; 
+   cursor:pointer;  
 }
